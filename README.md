@@ -19,7 +19,7 @@ preparando a base para a implementação de funcionalidades mais avançadas nas 
 - **ℹ️ SobreScreen** – Informações sobre o app e os desenvolvedores.
 
 ## 👨‍💻 Integrantes
-Ryan Fernando Lucio eda Silva - 555924/
+Ryan Fernando Lucio da Silva - 555924/
 Lucas Henrique de Souza Santos - 558241/
 Mariana Roberti Neri - 556284
 
